@@ -97,6 +97,6 @@ Follow the on-screen console prompts to log in and access student details, atten
 
 **Ayush Sengar**
 
-- GitHub: [@ayush-sengar-dev](https://github.com/ayush-sengar-dev)
+- GitHub: [@asengar-28](https://github.com/asengar-28)
 - LinkedIn: [Ayush Sengar](https://linkedin.com/in/ayush-sengar-93ab57288)
 - Email: ayushsengar717@gmail.com
