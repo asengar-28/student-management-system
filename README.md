@@ -93,10 +93,6 @@ python main.py
 
 Follow the on-screen console prompts to log in and access student details, attendance, results, fees, timetable, and optional services.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 **Ayush Sengar**
